@@ -10,7 +10,7 @@ This project contains a Node.js script utilizing Playwright to automate the proc
 
 ### Set up
 
-1. Clone the repository by running the following command:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/sabbaken/xiaomi-router-reboot-automation.git
@@ -19,10 +19,10 @@ git clone https://github.com/sabbaken/xiaomi-router-reboot-automation.git
 2. Navigate to the project directory:
 
 ```bash
-cd repo
+cd xiaomi-router-reboot-automation
 ```
 
-3. Navigate to the project directory:
+3. Create .env file with your admin password:
 
 ```bash
 echo "ROUTER_ADMIN_PASSWORD=1234" > .env
